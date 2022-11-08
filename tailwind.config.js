@@ -5,7 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
+      colors:{
+        blackmamba:'#000'
+      }
     },
   },
   plugins: [],
