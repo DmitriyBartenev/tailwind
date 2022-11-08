@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        blackmamba:'#000'
+        neverUsedColor:'#777777',
+        testFontColor:'#323232'
       }
     },
   },
