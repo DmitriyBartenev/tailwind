@@ -1,6 +1,5 @@
 
 
-
 const PreFooter = () => {
     return(
         <section id = 'preFooter'>

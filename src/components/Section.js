@@ -5,7 +5,7 @@ const Section = () => {
     return(
         <section className="features">
             <div className="container flex flex-col px-4 mx-auto mt-10 space-y-12 md:space-y-0 md:flex-row">
-                <div className="flex flex-col mx-auto space-y-12 md:w-1/2">
+                <div className="flex flex-col mx-auto space-y-12 items-center md:w-1/2 md:items-start">
                     <h2 className="max-w-md text-4xl font-bold text-center md:text-left">
                         What's different about Manage?
                     </h2>
